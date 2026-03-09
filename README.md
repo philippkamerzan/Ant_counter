@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1x4ch6YOL7jZmgbDS83uIjpNNXB9vq-MbS1-YtMEjoxE/edit?tab=t.0#heading=h.5fp4x75oj176
+
 # для запуска на 830 муравьев такие параметры
 #python ant_counter_fast_timed.py image3.jpg --max-side 1800 `
 #>>   --multi-scale --small-blackhat-ksize 21 `
